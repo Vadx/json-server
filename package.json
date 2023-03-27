@@ -1,0 +1,13 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "license": "ISC"
+}
